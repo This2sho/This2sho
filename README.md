@@ -1,4 +1,4 @@
-<center>### Hi there 👋</center>
+### <center>Hi there 👋</center>
 
 <!--
 **This2sho/This2sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
