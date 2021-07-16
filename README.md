@@ -1,4 +1,4 @@
-### Hi there 👋
+<center>### Hi there 👋</center>
 
 <!--
 **This2sho/This2sho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=This2sho&hide=html)](https://github.com/anuraghazra/github-readme-stats)</center><br>
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=This2sho&hide=issues,contribs)</center><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=This2sho&hide=html)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=This2sho&hide=issues,contribs)
